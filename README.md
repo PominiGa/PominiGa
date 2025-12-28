@@ -21,7 +21,7 @@ Olá, Mundo! Eu sou Gabriel Pomini.
 
 
 
-<a href="https://github.com/PominiGa">
+<a href="https://github.com/LeoUpperThrower4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PominiGa&theme=dracula&hide_langs_below=1" />
 </a>
 
