@@ -19,14 +19,15 @@ Olá, Mundo! Eu sou Gabriel Pomini.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-
-<a href="https://github.com/LeoUpperThrower4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PominiGa&theme=dracula&hide_langs_below=1" />
-</a>
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=PominiGa&theme=radical&mode=weekly" />
+  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PominiGa&show_icons=true&theme=radical&layout=compact" />
+</div>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
 
 [![Gabriel Pomini github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PominiGa&bg_color=000&color=6A5ACD&line=32CD32&point=fff&area=true&hide_border=true)](https://github.com/PominiGa)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
