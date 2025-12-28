@@ -21,11 +21,9 @@ Olá, Mundo! Eu sou Gabriel Pomini.
 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PominiGa&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PominiGa&layout=compact&theme=dracula" />
-</div>
+<a href="https://github.com/LeoUpperThrower4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoUpperThrower4&theme=dracula&hide_langs_below=1" />
+</a>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
