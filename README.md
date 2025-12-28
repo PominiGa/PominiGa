@@ -20,7 +20,6 @@ Olá, Mundo! Eu sou Gabriel Pomini.
 
 
 <div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=PominiGa&theme=radical&mode=weekly" />
   <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PominiGa&show_icons=true&theme=radical&layout=compact" />
 </div>
 
