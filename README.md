@@ -20,13 +20,33 @@ Olá, Mundo! Eu sou Gabriel Pomini.
 
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PominiGa&show_icons=true&theme=radical&layout=compact" />
+  <a href="https://github.com/PominiGa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PominiGa&theme=github_dark" width="780" alt="Profile details" />
+  </a>
 </div>
 
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
+<div align="center">
+  <a href="https://github.com/PominiGa?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PominiGa&theme=github_dark" height="220" alt="Repos per language" />
+  </a>
+  <a href="https://github.com/PominiGa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PominiGa&theme=github_dark" height="220" alt="Most commit language" />
+  </a>
+</div>
 
-[![Gabriel Pomini github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PominiGa&bg_color=000&color=6A5ACD&line=32CD32&point=fff&area=true&hide_border=true)](https://github.com/PominiGa)
+<div align="center">
+  <a href="https://github.com/PominiGa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PominiGa&theme=github_dark" height="190" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/PominiGa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PominiGa&theme=github_dark&utcOffset=-3" height="190" alt="Productive time" />
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PominiGa/PominiGa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif dark mode" />
+  <img src="https://raw.githubusercontent.com/PominiGa/PominiGa/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif light mode" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
